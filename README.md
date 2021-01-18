@@ -18,8 +18,6 @@
   <script src="like_button.js">
   </script>
 
-const domContainer = document.querySelector('#like_button_container');
-ReactDOM.render(e(LikeButton), domContainer);
 
 
 
